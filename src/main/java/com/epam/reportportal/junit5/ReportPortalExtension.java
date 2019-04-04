@@ -16,7 +16,7 @@
 package com.epam.reportportal.junit5;
 
 import static java.util.Optional.ofNullable;
-import static rp.com.google.common.base.Throwables.getStackTraceAsString;
+import static com.google.common.base.Throwables.getStackTraceAsString;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Constructor;
